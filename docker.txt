@@ -3,4 +3,16 @@ Git is a distributed version control system.
 Git is free software.
 Git tracks changes of files.
 openstack
+<<<<<<< HEAD
 my stupid boss、、new words adding.
+=======
+my stupid boss
+creating a new branch is quick.
+hello!
+Creating a new branch is quick and simple.
+new studying.
+add merge
+new adding merge. yes there is no bug.
+new adding merge.
+bug reverse.hello.
+>>>>>>> cc6876a7e7d68128a336e86431851bf81ad04cc7
