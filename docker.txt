@@ -3,4 +3,4 @@ Git is a distributed version control system.
 Git is free software.
 Git tracks changes of files.
 openstack
-my stupid boss
+my stupid boss、、new words adding.
